@@ -1,29 +1,3 @@
-# Python caches and test artifacts
-__pycache__/
-*.py[cod]
-.pytest_cache/
-
-# Local environments and dependencies
-.venv/
-venv/
-node_modules/
-
-# Build and generated outputs
-outputs/
-dist/
-build/
-
-# Local editor / OS noise
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-
 # Business data and outreach materials
 数据表/
 达人建联话术/
-
-# Common local exports and scratch files
-*.log
-*.tmp
-*.bak
